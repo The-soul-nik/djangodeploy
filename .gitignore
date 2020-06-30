@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 
 .idea/
 post/settings/local.py
+=======
+>>>>>>> 040eb1b9445ed16c30dec05d23d1ff6b86e58049
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -131,8 +134,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 # Text backup files
 *.bak
 
 #Database
 *.sqlite3
+=======
+>>>>>>> 040eb1b9445ed16c30dec05d23d1ff6b86e58049
