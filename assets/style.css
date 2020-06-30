@@ -1,0 +1,19 @@
+body{
+   background-image: url(/static/forsite.png);
+
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+a:hover{
+  color: #A6544D;
+}
+
+
+h2{
+  color: white;
+}
